@@ -1,3 +1,5 @@
+# new version in https://github.com/PierreYvesH/Pupil_labs_batch_exporter
+
 # batchExport
 Custom batch exporter for pupil labs
 
